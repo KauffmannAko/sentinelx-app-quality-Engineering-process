@@ -1,0 +1,2 @@
+Risk Matrix → used for internal risk scoring and prioritization
+Risk Register → the stakeholder-facing document derived from the matrix
